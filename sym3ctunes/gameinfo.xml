@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Sym3c Tunes.sh</path>
+    <name>Sym3c Tunes</name>
+    <desc>A Spotify-style music player for your handheld. Browse your MP3, OGG and WAV library, play, shuffle and repeat - all from the D-pad.</desc>
+    <releasedate>20261122T000000</releasedate>
+    <developer>Phil.Ai</developer>
+    <publisher>Phil.Ai</publisher>
+    <genre>Music</genre>
+    <image>./sym3ctunes/cover.png</image>
+  </game>
+</gameList>
